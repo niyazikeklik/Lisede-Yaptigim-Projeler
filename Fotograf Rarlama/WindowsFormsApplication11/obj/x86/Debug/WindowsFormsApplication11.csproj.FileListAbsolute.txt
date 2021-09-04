@@ -1,0 +1,18 @@
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form1.resources
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csproj.ResolveComReference.cache
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Ionic.Zip.dll
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Ionic.Zip.pdb
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Ionic.Zip.xml
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Fotoğraf Ziple.exe
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\Fotoğraf Ziple.pdb
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\Fotoğraf Ziple.exe
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\Fotoğraf Ziple.pdb
+D:\Programlarım\Kodlar\Fotoğraf Klasörleme\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csproj.ResolveComReference.cache
+D:\Programlarım\Kodlar\Fotoğraf Klasörleme\WindowsFormsApplication11\obj\x86\Debug\Fotoğraf Ziple.exe
+D:\Programlarım\Kodlar\Fotoğraf Klasörleme\WindowsFormsApplication11\obj\x86\Debug\Fotoğraf Ziple.pdb
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Fotoğraf Klasörleme\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csproj.ResolveComReference.cache
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Fotoğraf Klasörleme\WindowsFormsApplication11\obj\x86\Debug\Fotoğraf Ziple.exe
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Fotoğraf Klasörleme\WindowsFormsApplication11\obj\x86\Debug\Fotoğraf Ziple.pdb

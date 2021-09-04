@@ -1,0 +1,20 @@
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.pdb
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.exe
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.resimbuyut.resources
+D:\Programlarım\Kodlar\Aktif Üretim\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+D:\Programlarım\Kodlar\Aktif Üretim\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Form1.resources
+D:\Programlarım\Kodlar\Aktif Üretim\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.Properties.Resources.resources
+D:\Programlarım\Kodlar\Aktif Üretim\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.resimbuyut.resources
+D:\Programlarım\Kodlar\Aktif Üretim\WindowsFormsApplication10\obj\x86\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+D:\Programlarım\Kodlar\Aktif Üretim\WindowsFormsApplication10\bin\Debug\Aktif Üretim.exe.config
+D:\Programlarım\Kodlar\Aktif Üretim\WindowsFormsApplication10\bin\Debug\Aktif Üretim.exe
+D:\Programlarım\Kodlar\Aktif Üretim\WindowsFormsApplication10\bin\Debug\Aktif Üretim.pdb
+D:\Programlarım\Kodlar\Aktif Üretim\WindowsFormsApplication10\obj\x86\Debug\Aktif Üretim.exe
+D:\Programlarım\Kodlar\Aktif Üretim\WindowsFormsApplication10\obj\x86\Debug\Aktif Üretim.pdb

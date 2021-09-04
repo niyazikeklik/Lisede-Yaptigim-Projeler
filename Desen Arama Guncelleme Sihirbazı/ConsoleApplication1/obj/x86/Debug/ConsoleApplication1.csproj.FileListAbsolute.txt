@@ -1,0 +1,14 @@
+c:\users\stajyer\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\guncelle.exe
+c:\users\stajyer\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\guncelle.pdb
+c:\users\stajyer\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\guncelle.exe
+c:\users\stajyer\documents\visual studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\guncelle.pdb
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Programlarım\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\guncelle.exe
+D:\Programlarım\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\guncelle.pdb
+D:\Programlarım\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Programlarım\ConsoleApplication1\ConsoleApplication1\bin\Debug\guncelle.exe
+D:\Programlarım\ConsoleApplication1\ConsoleApplication1\bin\Debug\guncelle.pdb
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Guncelleme Sihirbazı Desen Arama\ConsoleApplication1\obj\x86\Debug\guncelle.exe
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Guncelleme Sihirbazı Desen Arama\ConsoleApplication1\obj\x86\Debug\guncelle.pdb
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Guncelleme Sihirbazı Desen Arama\ConsoleApplication1\bin\Debug\guncelle.exe
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Guncelleme Sihirbazı Desen Arama\ConsoleApplication1\bin\Debug\guncelle.pdb

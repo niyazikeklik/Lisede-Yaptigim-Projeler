@@ -1,0 +1,27 @@
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\Programlarım\Kodlar\Personel Takip\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+D:\Programlarım\Kodlar\Personel Takip\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+D:\Programlarım\Kodlar\Personel Takip\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+D:\Programlarım\Kodlar\Personel Takip\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+D:\Programlarım\Kodlar\Personel Takip\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\Programlarım\Kodlar\Personel Takip\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+D:\Programlarım\Kodlar\Personel Takip\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+D:\Programlarım\Kodlar\Personel Takip\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\Programlarım\Kodlar\Personel Takip\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Personel Takip (Yarım Kaldı)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.exe
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Personel Takip (Yarım Kaldı)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.pdb
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Personel Takip (Yarım Kaldı)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Personel Takip (Yarım Kaldı)\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Personel Takip (Yarım Kaldı)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Personel Takip (Yarım Kaldı)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Personel Takip (Yarım Kaldı)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form2.resources
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Personel Takip (Yarım Kaldı)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Personel Takip (Yarım Kaldı)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache

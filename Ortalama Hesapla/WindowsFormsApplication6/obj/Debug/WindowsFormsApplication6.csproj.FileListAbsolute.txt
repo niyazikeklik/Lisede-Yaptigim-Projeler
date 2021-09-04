@@ -1,0 +1,9 @@
+c:\users\guven2018\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+c:\users\guven2018\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\guven2018\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\guven2018\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\guven2018\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Ortalama Hesapla.exe.config
+c:\users\guven2018\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Ortalama Hesapla.exe
+c:\users\guven2018\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Ortalama Hesapla.pdb
+c:\users\guven2018\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Ortalama Hesapla.exe
+c:\users\guven2018\documents\visual studio 2013\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\Debug\Ortalama Hesapla.pdb

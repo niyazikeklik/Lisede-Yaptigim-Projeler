@@ -1,0 +1,11 @@
+c:\users\stajyer\documents\visual studio 2010\Projects\otomatik_imzala\otomatik_imzala\bin\Debug\Database1.accdb
+c:\users\stajyer\documents\visual studio 2010\Projects\otomatik_imzala\otomatik_imzala\bin\Debug\otomatik_imzala.exe.config
+c:\users\stajyer\documents\visual studio 2010\Projects\otomatik_imzala\otomatik_imzala\bin\Debug\otomatik_imzala.exe
+c:\users\stajyer\documents\visual studio 2010\Projects\otomatik_imzala\otomatik_imzala\bin\Debug\otomatik_imzala.pdb
+c:\users\stajyer\documents\visual studio 2010\Projects\otomatik_imzala\otomatik_imzala\obj\x86\Debug\otomatik_imzala.csproj.ResolveComReference.cache
+c:\users\stajyer\documents\visual studio 2010\Projects\otomatik_imzala\otomatik_imzala\obj\x86\Debug\otomatik_imzala.Properties.Resources.resources
+c:\users\stajyer\documents\visual studio 2010\Projects\otomatik_imzala\otomatik_imzala\obj\x86\Debug\otomatik_imzala.csproj.GenerateResource.Cache
+c:\users\stajyer\documents\visual studio 2010\Projects\otomatik_imzala\otomatik_imzala\obj\x86\Debug\otomatik_imzala.exe
+c:\users\stajyer\documents\visual studio 2010\Projects\otomatik_imzala\otomatik_imzala\obj\x86\Debug\otomatik_imzala.pdb
+c:\users\stajyer\documents\visual studio 2010\Projects\otomatik_imzala\otomatik_imzala\obj\x86\Debug\otomatik_imzala.Form1.resources
+C:\Users\stajyer\documents\visual studio 2010\Projects\otomatik_imzala\otomatik_imzala\obj\x86\Debug\otomatik_imzala.csprojResolveAssemblyReference.cache

@@ -1,0 +1,96 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindowsFormsApplication2" GeneratedClassName="Settings1">
+  <Profiles />
+  <Settings>
+    <Setting Name="guncellemeyapılacakmı" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="arkaplanrenk" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="yazirenk" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="guncellemeyap" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="yoneticipanel" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="kısayol" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="hızlandır" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="wfgorunteleyici" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ihrid" Type="System.String" Scope="User">
+      <Value Profile="(Default)">İhracat İD</Value>
+    </Setting>
+    <Setting Name="ihrpas" Type="System.String" Scope="User">
+      <Value Profile="(Default)">İhracat Şifre</Value>
+    </Setting>
+    <Setting Name="kullanımsayisi" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ipüzerindenbaglan" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="eklenmezamanigöster" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Darkaplan" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Red</Value>
+    </Setting>
+    <Setting Name="Dyazırengi" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="Carkaplan" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">255, 128, 128</Value>
+    </Setting>
+    <Setting Name="Cyazırengi" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="Garkaplan" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="Gyazi" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="konumex" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="konumcheck" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="b1" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="b2" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="b3" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="b4" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="b5" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="b6" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="b7" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="b8" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="siyaharkaplan" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
