@@ -1,0 +1,44 @@
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+c:\users\stajyer\documents\visual studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Yazdır.resources
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form2.resources
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Bagis Takip Programı.exe.config
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Bagis Takip Programı.exe
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\bin\Debug\Bagis Takip Programı.pdb
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\Bagis Takip Programı.exe
+C:\Users\stajyer\Documents\Visual Studio 2010\Projects\WindowsFormsApplication6\WindowsFormsApplication6\obj\x86\Debug\Bagis Takip Programı.pdb
+D:\Programlarım\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\bin\Debug\Bagis Takip Programı.exe.config
+D:\Programlarım\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\Bagis Takip Programı.exe
+D:\Programlarım\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\Bagis Takip Programı.pdb
+D:\Programlarım\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\bin\Debug\Bagis Takip Programı.exe
+D:\Programlarım\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\bin\Debug\Bagis Takip Programı.pdb
+D:\Programlarım\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+D:\Programlarım\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form2.resources
+D:\Programlarım\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\Programlarım\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Yazdır.resources
+D:\Programlarım\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\Programlarım\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\bin\Debug\Bagis Takip Programı.exe.config
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\Bagis Takip Programı.exe
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\Bagis Takip Programı.pdb
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\bin\Debug\Bagis Takip Programı.exe
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\bin\Debug\Bagis Takip Programı.pdb
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form2.resources
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Yazdır.resources
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+D:\Alınacaklar\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.ResolveComReference.cache
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı Sürümleri\Bağış Takip İkinci Verilen Sürüö V2.5\WindowsFormsApplication6\bin\Debug\Bagis Takip Programı.exe.config
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı Sürümleri\Bağış Takip İkinci Verilen Sürüö V2.5\WindowsFormsApplication6\bin\Debug\Bagis Takip Programı.exe
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı Sürümleri\Bağış Takip İkinci Verilen Sürüö V2.5\WindowsFormsApplication6\bin\Debug\Bagis Takip Programı.pdb
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı Sürümleri\Bağış Takip İkinci Verilen Sürüö V2.5\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csprojResolveAssemblyReference.cache
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı Sürümleri\Bağış Takip İkinci Verilen Sürüö V2.5\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.ResolveComReference.cache
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı Sürümleri\Bağış Takip İkinci Verilen Sürüö V2.5\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Form1.resources
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı Sürümleri\Bağış Takip İkinci Verilen Sürüö V2.5\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.Properties.Resources.resources
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı Sürümleri\Bağış Takip İkinci Verilen Sürüö V2.5\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.GenerateResource.Cache
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı Sürümleri\Bağış Takip İkinci Verilen Sürüö V2.5\WindowsFormsApplication6\obj\x86\Debug\WindowsFormsApplication6.csproj.CoreCompileInputs.cache
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı Sürümleri\Bağış Takip İkinci Verilen Sürüö V2.5\WindowsFormsApplication6\obj\x86\Debug\Bagis Takip Programı.exe
+E:\Staj Dönemi\Staj Dönemi Projelerim\Açık Kaynak Kodları\Kodlar\Bağış Takip Programı Sürümleri\Bağış Takip İkinci Verilen Sürüö V2.5\WindowsFormsApplication6\obj\x86\Debug\Bagis Takip Programı.pdb
